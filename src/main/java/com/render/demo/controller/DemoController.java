@@ -9,7 +9,7 @@ public class DemoController {
 
     @RequestMapping("/hello")
     public String index() {
-        return "Hello Render Demo";
+        return "Hello Render Demo from Railway App";
     }    
 
 }
